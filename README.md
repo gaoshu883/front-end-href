@@ -16,10 +16,9 @@
     * [Quick and simple image placeholders](http://placehold.it/)
     * [placeholder images for every case](http://lorempixel.com/)
 + [乱数假文](http://cn.lipsum.com/)
-+ Web font:
++ Icon font:
     * [unicode-table](https://unicode-table.com/en/)
     * [We Love Icon Fonts](http://weloveiconfonts.com/)
-    * [Google Fonts](https://fonts.google.com/)
     * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn/)
     * [Pixel Perfect Icon Solutions](https://icomoon.io/)--矢量图转成字体
 
