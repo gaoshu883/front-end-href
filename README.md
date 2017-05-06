@@ -21,8 +21,7 @@
     * [We Love Icon Fonts](http://weloveiconfonts.com/)
     * [Google Fonts](https://fonts.google.com/)
     * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn/)
-    * [Pixel Perfect Icon Solutions](https://icomoon.io/)
-        - 矢量图转成字体
+    * [Pixel Perfect Icon Solutions](https://icomoon.io/)--矢量图转成字体
 
 ## JavaScript
 
@@ -63,3 +62,12 @@
 ## 有趣的内容
 
 + [Pure CSS minesweeper（纯CSS实现的扫雷小游戏）](http://codepen.io/bali_balo/pen/BLJONk?utm_source=CSS-Weekly&utm_campaign=Issue-234&utm_medium=email)
+
+## 在线学习
+
++ [Udacity-优达学城](https://cn.udacity.com/)
++ [FreeCodeCamp-中文版](https://freecodecamp.cn/)
++ [Code School](https://www.codeschool.com/)
++ [Codecademy](https://www.codecademy.com/learn/all)
++ [百度前端技术学院](http://ife.baidu.com/)
++ [慕课网](http://www.imooc.com/)
