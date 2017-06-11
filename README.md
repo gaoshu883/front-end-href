@@ -21,6 +21,7 @@
     * [We Love Icon Fonts](http://weloveiconfonts.com/)
     * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn/)
     * [Pixel Perfect Icon Solutions](https://icomoon.io/)--矢量图转成字体
++ [HTML特殊字符大全](http://www.grycheng.com/tools/string.html)
 
 ## JavaScript
 
@@ -33,12 +34,18 @@
 + [为什么JavaScript里函数的arguments只是array-like object?](https://www.zhihu.com/question/50803453/answer/122786182)
 + [为什么不要直接在Object.prototype上定义方法？](https://www.zhihu.com/question/26924011)
 + [回调函数（callback）是什么？](https://www.zhihu.com/question/19801131)
++ [关于JavaScript单线程的一些事](https://github.com/JChehe/blog/blob/master/posts/%E5%85%B3%E4%BA%8EJavaScript%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B.md)
 + [JavaScript 既是单线程又是异步的，请问这二者是否冲突，以及有什么区别？](https://www.zhihu.com/question/20866267)
 + [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 + [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
 + [探索Javascript异步编程](http://web.jobbole.com/82291/)
 + [【Javascript设计模式3】-观察者模式](http://www.alloyteam.com/2012/10/commonly-javascript-design-pattern-observer-mode/)
 + [最全面的JavaScript调试技巧总结](http://www.codeceo.com/article/javascript-debug-skills.html)
+
+## JavaScript Quiz
+
++ [14题](http://perfectionkills.com/javascript-quiz/)
++ [44题](http://javascript-puzzlers.herokuapp.com/)
 
 ## ECMAScript2015(ES6)
 
