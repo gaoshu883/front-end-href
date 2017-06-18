@@ -15,6 +15,7 @@
 + 占位图片
     * [Quick and simple image placeholders](http://placehold.it/)
     * [placeholder images for every case](http://lorempixel.com/)
+    * [PLACEMAT](https://placem.at/)
 + [乱数假文](http://cn.lipsum.com/)
 + Icon font:
     * [unicode-table](https://unicode-table.com/en/)
