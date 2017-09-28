@@ -62,7 +62,9 @@
 
 + [JSON在线视图查看器(Online JSON Viewer)](http://www.bejson.com/jsonviewernew/)
 
-## [jQuery教程和技巧](https://teakki.com/@dongcheng)
+## jQuery教程和技巧
+
++ [jQuery技巧集锦](https://teakki.com/@dongcheng)
 
 ## 前端工具
 
