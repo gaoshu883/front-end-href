@@ -13,16 +13,16 @@
 
 + [Box Shadow CSS Generator | CSSmatic](http://www.cssmatic.com/box-shadow)
 + 占位图片
-    * [Quick and simple image placeholders](http://placehold.it/)
+    * [Placehold.it](http://placehold.it/) 访问快
     * [placeholder images for every case](http://lorempixel.com/)
-    * [PLACEMAT](https://placem.at/)
+    * [PLACEMAT](https://placem.at/) 图美，访问慢
 + [乱数假文](http://cn.lipsum.com/)
 + Icon font:
     * [We Love Icon Fonts](http://weloveiconfonts.com/)
     * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn/)
     * [Pixel Perfect Icon Solutions](https://icomoon.io/)--矢量图转成字体
 + [unicode-table](https://unicode-table.com/en/)
-+ [HTML特殊字符大全](http://www.grycheng.com/tools/string.html)
++ [HTML特殊字符大全](http://www.grycheng.com/tools/string.html) 链接已失效
 + 免费的高质量的图片库
     * [Unsplash](https://unsplash.com/)
     * [pixabay](https://pixabay.com/)
