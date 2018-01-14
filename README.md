@@ -22,7 +22,7 @@
     * [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn/)
     * [Pixel Perfect Icon Solutions](https://icomoon.io/)--矢量图转成字体
 + [unicode-table](https://unicode-table.com/en/)
-+ [HTML特殊字符大全](http://www.grycheng.com/tools/string.html) 链接已失效
++ <del>[HTML特殊字符大全](http://www.grycheng.com/tools/string.html)</del> 链接已失效
 + 免费的高质量的图片库
     * [Unsplash](https://unsplash.com/)
     * [pixabay](https://pixabay.com/)
