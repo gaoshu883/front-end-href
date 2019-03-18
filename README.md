@@ -27,7 +27,11 @@
     * [Unsplash](https://unsplash.com/)
     * [pixabay](https://pixabay.com/)
 + [可视化正则](https://regexper.com/)
-+ [蓝灯](https://github.com/getlantern/forum)--帮助你google
++ Let's google 
+   * [蓝灯](https://github.com/getlantern/forum)
+   * [西游](https://xiyou.io/) 
++ [测试用在线视频地址](https://www.jianshu.com/p/75a7db26d1d7)
++ [前端mock数据 easy-mock](https://www.easy-mock.com/)
 ## JavaScript
 
 + [A Short History of JavaScript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)
