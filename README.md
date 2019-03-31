@@ -1,15 +1,7 @@
 # 前端资料分类整理
 
-## HTML & CSS
 
-+ [我的HTML会说话——从实用出发，谈谈HTML的语义化](https://segmentfault.com/a/1190000004179484)
-+ [怪异模式（Quirks Mode）对 HTML 页面的影响](https://www.ibm.com/developerworks/cn/web/1310_shatao_quirks/)
-+ [20 Years of CSS](https://www.w3.org/Style/CSS20/?utm_source=CSS-Weekly&utm_campaign=Issue-244&utm_medium=email)
-+ [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-+ [各个平台下相对比较好的 Web 英文字体分别是什么？](https://www.zhihu.com/question/20405658)
-+ [CSS font-family 网页字体使用小结](http://moxfive.xyz/2015/12/09/css-font-family/)
-
-### 工具
+## 工具
 
 + [Box Shadow CSS Generator | CSSmatic](http://www.cssmatic.com/box-shadow)
 + 占位图片
@@ -29,9 +21,22 @@
 + [可视化正则](https://regexper.com/)
 + Let's google 
    * [蓝灯](https://github.com/getlantern/forum)
-   * [西游](https://xiyou.io/) 
+   * <del>[西游](https://xiyou.io/)</del> 无法访问
 + [测试用在线视频地址](https://www.jianshu.com/p/75a7db26d1d7)
 + [前端mock数据 easy-mock](https://www.easy-mock.com/)
+
+## Git
++ [把 master 分支下的 dist 文件夹推送到 gh-pages 分支](https://segmentfault.com/q/1010000007913675)
+
+## HTML & CSS
+
++ [我的HTML会说话——从实用出发，谈谈HTML的语义化](https://segmentfault.com/a/1190000004179484)
++ [怪异模式（Quirks Mode）对 HTML 页面的影响](https://www.ibm.com/developerworks/cn/web/1310_shatao_quirks/)
++ [20 Years of CSS](https://www.w3.org/Style/CSS20/?utm_source=CSS-Weekly&utm_campaign=Issue-244&utm_medium=email)
++ [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
++ [各个平台下相对比较好的 Web 英文字体分别是什么？](https://www.zhihu.com/question/20405658)
++ [CSS font-family 网页字体使用小结](http://moxfive.xyz/2015/12/09/css-font-family/)
+
 ## JavaScript
 
 + [A Short History of JavaScript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)
