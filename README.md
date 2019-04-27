@@ -29,6 +29,9 @@
 + [把 master 分支下的 dist 文件夹推送到 gh-pages 分支](https://segmentfault.com/q/1010000007913675)
 + [git拉取远程指定分支到本地](https://www.cnblogs.com/hamsterPP/p/6810831.html)
 
+## VSCode 
++ [VSCode配置同步插件——Setting Sync在不同设备上同步需要注意的问题](https://juejin.im/entry/5b57d3c0f265da0fa959bbf5)
+
 ## HTML & CSS
 
 + [我的HTML会说话——从实用出发，谈谈HTML的语义化](https://segmentfault.com/a/1190000004179484)
