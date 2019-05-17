@@ -34,6 +34,12 @@
 + Setting Sync 插件
    + [使用方法](https://www.jianshu.com/p/0a273bf2a986)
    + [在不同设备上同步需要注意的问题](https://juejin.im/entry/5b57d3c0f265da0fa959bbf5)
++ vetur 插件
+   + [VSCode中使用vetur插件格式化vue文件时，js代码会被添加上分号且单引号会转变为双引号](https://segmentfault.com/q/1010000011675886/a-1020000011676399)
++ 配置
+   + "editor.foldingStrategy": "indentation"  根据缩进折叠代码
+   + "editor.formatOnSave": true  保存代码时自动格式化
+   + "editor.formatOnType": true  键入后自动设置行的格式
 
 ## Webpack
 + [webpack-dev-server无法通过ip访问](https://github.com/webpack/webpack-dev-server/issues/147)
