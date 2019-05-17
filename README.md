@@ -21,7 +21,7 @@
 + [可视化正则](https://regexper.com/)
 + Let's google 
    * [蓝灯](https://github.com/getlantern/forum)
-   * <del>[西游](https://xiyou.io/)</del> 无法访问
+   * [西游](https://xiyou.world/)
 + [测试用在线视频地址](https://www.jianshu.com/p/75a7db26d1d7)
 + [前端mock数据 easy-mock](https://www.easy-mock.com/)
 + [数据接口](https://api.isoyu.com/#/)
