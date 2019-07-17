@@ -45,6 +45,16 @@
 + [webpack-dev-server无法通过ip访问](https://github.com/webpack/webpack-dev-server/issues/147)
    + --host 0.0.0.0
 
+## 也许用的上
++ [一步步教你Android反编译](https://juejin.im/post/5aed9694518825673e358436)
+   + 如果apktool反编译失败，多半是apktool的版本问题：[stackoverflow上的问答](https://stackoverflow.com/questions/30054156/apktools-apk-studio-could-not-decode-arsc-file)
+   + 安装apktool的正确步骤请参考：[Install Instructions](https://ibotpeaches.github.io/Apktool/install/)
+   + 如果反编译还失败，也许是路径问题，试试把apk放在桌面上再反编译
+   + 如果反编译的结果没有dex文件，是反编译的太过了，试试：apktool d -s dem.apk命令（-s），具体参考了这里：[怎样反编译 Android APK？
+](https://www.zhihu.com/question/29370382)
+   + 其余就按照[一步步教你Android反编译](https://juejin.im/post/5aed9694518825673e358436)进行操作即可查看到源码了
+   
+
 ## HTML & CSS
 
 + [我的HTML会说话——从实用出发，谈谈HTML的语义化](https://segmentfault.com/a/1190000004179484)
