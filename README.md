@@ -45,6 +45,9 @@
 + [webpack-dev-server无法通过ip访问](https://github.com/webpack/webpack-dev-server/issues/147)
    + --host 0.0.0.0
 
+## Vue
++ [vue项目如何引入babel-polyfill](https://segmentfault.com/q/1010000012736467)
+
 ## 也许用的上
 + [一步步教你Android反编译](https://juejin.im/post/5aed9694518825673e358436)
    + 如果apktool反编译失败，多半是apktool的版本问题：[stackoverflow上的问答](https://stackoverflow.com/questions/30054156/apktools-apk-studio-could-not-decode-arsc-file)
