@@ -48,6 +48,14 @@
 ## Vue
 + [vue项目如何引入babel-polyfill](https://segmentfault.com/q/1010000012736467)
 
+## 本地部署Easy-mock锦囊
++ [windows10启动redis总是一闪而过](https://blog.csdn.net/qq_40361770/article/details/80454248)
+   + [CMD命令进入某个目录](https://blog.csdn.net/aidenliu/article/details/5390113)
++ [mongoDB无法链接，多半是node.js的版本问题，降低到8.x即可](https://github.com/easy-mock/easy-mock/issues/269)
++ [配置中的host：0.0.0.0 指代了本机所有的IP，所以，设置成0.0.0.0，就能通过本机的ip进行访问了](https://www.jianshu.com/p/ba8abad56ba9)
+   + [localhost是域名](https://www.zhihu.com/question/23940717)
+
+
 ## 也许用的上
 + [一步步教你Android反编译](https://juejin.im/post/5aed9694518825673e358436)
    + 如果apktool反编译失败，多半是apktool的版本问题：[stackoverflow上的问答](https://stackoverflow.com/questions/30054156/apktools-apk-studio-could-not-decode-arsc-file)
