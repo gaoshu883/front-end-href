@@ -40,6 +40,9 @@
    + "editor.foldingStrategy": "indentation"  根据缩进折叠代码
    + "editor.formatOnSave": true  保存代码时自动格式化
    + "editor.formatOnType": true  键入后自动设置行的格式
++ 快捷键
+   + `Ctrl/Command + k + 0` 折叠代码
+   + `Ctrl/Command + k + j` 展开代码
 
 ## Webpack
 + [webpack-dev-server无法通过ip访问](https://github.com/webpack/webpack-dev-server/issues/147)
