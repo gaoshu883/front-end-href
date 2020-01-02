@@ -50,6 +50,7 @@
 
 ## Vue
 + [vue项目如何引入babel-polyfill](https://segmentfault.com/q/1010000012736467)
+  * [babel-polyfill和tranform-runtime的比较](https://www.jianshu.com/p/844cf15341b3)
 
 ## 本地部署Easy-mock锦囊
 + [windows10启动redis总是一闪而过](https://blog.csdn.net/qq_40361770/article/details/80454248)
