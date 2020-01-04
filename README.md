@@ -23,7 +23,10 @@
    * [蓝灯](https://github.com/getlantern/forum)
    * [西游](https://xiyou360.net/)
 + [测试用在线视频地址](https://www.jianshu.com/p/75a7db26d1d7)
-+ [前端mock数据 easy-mock](https://www.easy-mock.com/)
++ 前端数据mock
+   * [easy-mock](https://github.com/easy-mock/easy-mock)
+   * [fastmock](https://www.fastmock.site/)
+   * [yapi](https://github.com/YMFE/yapi)
 + [数据接口](https://api.isoyu.com/#/)
 
 ## Git
