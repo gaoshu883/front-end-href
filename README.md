@@ -5,9 +5,9 @@
 
 + [Box Shadow CSS Generator | CSSmatic](http://www.cssmatic.com/box-shadow)
 + 占位图片
-    * [Placehold.it](http://placehold.it/) 访问快
-    * [placeholder images for every case](http://lorempixel.com/)
-    * [PLACEMAT](https://placem.at/) 图美，访问慢
+    * <del>[Placehold.it](http://placehold.it/) 访问快</del>
+    * <del>[placeholder images for every case](http://lorempixel.com/)</del>
+    * <del>[PLACEMAT](https://placem.at/) 图美，访问慢</del>
     * [generative placeholders](https://generative-placeholders.glitch.me/) 几何图案占位图
 + [乱数假文](http://cn.lipsum.com/)
 + Icon font:
